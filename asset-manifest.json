@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/notipad-deploy/static/css/main.a0541025.chunk.css",
+    "main.js": "/notipad-deploy/static/js/main.b5a9624f.chunk.js",
+    "main.js.map": "/notipad-deploy/static/js/main.b5a9624f.chunk.js.map",
+    "runtime-main.js": "/notipad-deploy/static/js/runtime-main.b49717e8.js",
+    "runtime-main.js.map": "/notipad-deploy/static/js/runtime-main.b49717e8.js.map",
+    "static/js/2.a9df34e2.chunk.js": "/notipad-deploy/static/js/2.a9df34e2.chunk.js",
+    "static/js/2.a9df34e2.chunk.js.map": "/notipad-deploy/static/js/2.a9df34e2.chunk.js.map",
+    "index.html": "/notipad-deploy/index.html",
+    "static/css/main.a0541025.chunk.css.map": "/notipad-deploy/static/css/main.a0541025.chunk.css.map",
+    "static/js/2.a9df34e2.chunk.js.LICENSE.txt": "/notipad-deploy/static/js/2.a9df34e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49717e8.js",
+    "static/js/2.a9df34e2.chunk.js",
+    "static/css/main.a0541025.chunk.css",
+    "static/js/main.b5a9624f.chunk.js"
+  ]
+}
